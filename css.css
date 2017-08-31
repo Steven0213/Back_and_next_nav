@@ -1,0 +1,8 @@
+
+div.pageOne, div.pageTwo, div.pageThree, div.pageFour, div.pageFive{
+    margin-top: 15px;
+}
+
+#nav{
+    text-align: center;
+}
