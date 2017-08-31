@@ -1,3 +1,13 @@
+html *{
+   font-size: 14px !important;
+   color: #02f917 !important;
+   font-family: Verdana !important;
+}
+
+body { 
+    margin: 0 !important; 
+    padding: 0 !important; 
+}
 
 div.pageOne, div.pageTwo, div.pageThree, div.pageFour, div.pageFive{
     margin-top: 15px;
